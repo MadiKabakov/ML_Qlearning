@@ -1,0 +1,30 @@
+[
+    {
+        "question": " Find the value of the Q(3, 1) ",
+        "type": "numeric",
+        "precision": 0,
+        "answers": [
+            {
+                "type": "value",
+                "value": 80,
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "type": "range",
+                "range": [
+                    -100000000,
+                    0
+                ],
+                "correct": false,
+                "feedback": " Try again."
+            },
+            {
+                "type": "default",
+                "feedback": "Try again."
+            }
+        ]
+    }
+    
+    
+]

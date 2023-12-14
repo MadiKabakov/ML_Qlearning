@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What are two main approaches to find optimal policy?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "Policy-based methods",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Random-based methods",
+                "correct": false,
+                "feedback": "Try again."
+            },
+            {
+                "answer": "Value-based methods",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "Evolution-strategies methods",
+                "correct": false,
+                "feedback": "I hope not."
+            }
+        ]
+    }
+    
+    
+]

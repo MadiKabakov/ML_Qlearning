@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is the primary purpose of the loss function used in Deep Q-Learning?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "To measure the accuracy of the Q-values predicted by the network",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "To regularize the weights of the neural network",
+                "correct": false,
+                "feedback": "Try again."
+            },
+            {
+                "answer": "To minimize the difference between predicted and target Q-values",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "To adjust the learning rate during training",
+                "correct": false,
+                "feedback": "I hope not."
+            }
+        ]
+    }
+    
+    
+]

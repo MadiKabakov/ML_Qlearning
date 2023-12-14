@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is the purpose of the exploration-exploitation trade-off in Q-learning?",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "To balance between discovering new actions and exploiting known actions",
+                "correct": true,
+                "feedback": "Correct"
+            },
+            {
+                "answer": "To calculate the learning rate",
+                "correct": false,
+                "feedback": "Incorrect"
+            },
+            {
+                "answer": "To find the optimal policy",
+                "correct": false,
+                "feedback": "Try again."
+            },
+            {
+                "answer": "To minimize the discount factor",
+                "correct": false,
+                "feedback": "I hope not."
+            }
+        ]
+    }
+    
+    
+]
